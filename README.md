@@ -5,11 +5,13 @@ I am a current Junior at the University of Iowa Tippie College of Business study
 ## __Project Title__
 
 ## _Description_
+This can best be described as an __assignment__.
 
 ## _How to Run Program_
 
 ## _Files Used_
 
 ## _Additional Documentation_
+There is no Additional Documentation.
 
 ## _Versioning_
