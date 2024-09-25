@@ -11,6 +11,7 @@ This can best be described as an __assignment__ for Business Analytics Professio
 
 
 ## Files Used
+The file I used for syntax clues is [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings).
 
 ## Additional Documentation
 There is no Additional Documentation.
