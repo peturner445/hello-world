@@ -1,17 +1,17 @@
-# hello-world
 This repository is for practicing the GitHub Flow.
 I am a current Junior at the University of Iowa Tippie College of Business studying Business Analytics and Marketing. I am also getting a Minor in Spanish and a Certificate in International Business. I am from Indianola, Iowa and I have two younger brothers, three cats, and a dog.
 
-## __Project Title__
+## Project Title
+_GitHub Project Assignment_
 
-## _Description_
+## Description
 This can best be described as an __assignment__.
 
-## _How to Run Program_
+## How to Run Program
 
-## _Files Used_
+## Files Used
 
-## _Additional Documentation_
+## Additional Documentation
 There is no Additional Documentation.
 
-## _Versioning_
+## Versioning
