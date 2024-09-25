@@ -5,9 +5,10 @@ I am a current Junior at the University of Iowa Tippie College of Business study
 _GitHub Project Assignment_
 
 ## Description
-This can best be described as an __assignment__.
+This can best be described as an __assignment__ for Business Analytics Professional Preparation.
 
 ## How to Run Program
+
 
 ## Files Used
 
@@ -15,3 +16,7 @@ This can best be described as an __assignment__.
 There is no Additional Documentation.
 
 ## Versioning
+- The first version of this code was an empty shell
+- Next, I created a branch titled "ReadMe"
+- Then, I merged this branch with the main "Hello World" branch
+- Now, I am working on adding at least 4 syntax elements
