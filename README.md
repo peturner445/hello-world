@@ -8,7 +8,7 @@ _GitHub Project Assignment_
 This can best be described as an __assignment__ for Business Analytics Professional Preparation.
 
 ## How to Run Program
-
+Program has already been run, but if needed to be run again look at past directions.
 
 ## Files Used
 The file I used for syntax clues is [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings).
